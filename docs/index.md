@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/
 
  We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to **open source**, enterprises and personal projects.
 
-#### Our Goal!
+#### Our Goal! #####
 > We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to open **source**, enterprises and personal projects.
 
 This is also a simplified form of the [documentations](https://docs.github.com/en) to be taking in max of seven (7) days by taking a single module in a day.
